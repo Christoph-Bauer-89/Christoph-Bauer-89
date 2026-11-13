@@ -1,7 +1,7 @@
 # Hi, ich bin Christoph Bauer 👋
-### Data & Process Architect (M.Sc. FACT) | AI-First Builder
+### Business Analyst · Datenanalyse & KI-Automatisierung
 
-Verbindung von finanzwirtschaftlichem Know-how mit moderner KI-Prozessautomatisierung, Power BI / Excel-Expertise und skalierbaren Data Pipelines.
+Über 7 Jahre habe ich bei Better Collective digitale Portfolios datenbasiert gesteuert. Heute baue ich KI-gestützte Automatisierungen, die Analysen und Prozesse schneller und verlässlicher machen.
 
 ---
 
