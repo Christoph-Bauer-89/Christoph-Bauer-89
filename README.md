@@ -8,6 +8,8 @@
 ### 🚀 Fokus & Philosophie: "AI-First Building"
 Ich nutze modernste KI-Methoden und Large Language Models (LLMs) als Effizienzhebel, um komplexe Daten- und Prozessarchitekturen schnell, sicher und produktionsnah umzusetzen. Von n8n-Workflows über RAG-Architekturen bis hin zu nativen MCP-Servern (Model Context Protocol).
 
+Code entsteht bei mir KI-gestützt: Ich definiere Anforderungen und Architektur, setze KI-Coding-Assistenten für die Umsetzung ein und prüfe die Ergebnisse.
+
 ---
 
 ### 🛠️ Tech Stack & Skills
