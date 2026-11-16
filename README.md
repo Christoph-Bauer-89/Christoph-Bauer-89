@@ -31,7 +31,7 @@ Code entsteht bei mir KI-gestützt: Ich definiere Anforderungen und Architektur,
 | 📋 **[Smart Contract Manager](https://github.com/Christoph-Bauer-89/Automatisierte-Fixkosten--Fristen-Steuerung-Gemini-AI-Agent-Power-BI-)** | Autonome KI-Belegextraktion mit Fristen-Rollierung & automatisierter Power BI Dashboard-Integration. | Gemini API, Python, Power BI |
 | 🔌 **[MCP Obsidian Vault Manager](https://github.com/Christoph-Bauer-89/MCP-Obsidian-Vault-Manager)** | Moderner MCP-Server zur sicheren Claude-Obsidian-Anbindung inklusive Sandbox & Path-Traversal-Schutz. | Python, FastMCP, PyYAML |
 
-*Insgesamt 10 praxisnahe AI-First & Data Engineering Repositories im Profil verfügbar.*
+*Insgesamt 9 praxisnahe AI-First & Data Engineering Repositories im Profil verfügbar.*
 
 ---
 
