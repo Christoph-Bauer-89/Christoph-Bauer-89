@@ -40,6 +40,7 @@ Code entsteht bei mir KI-gestützt: Ich definiere Anforderungen und Architektur,
 - **Microsoft Certified:** Power BI Data Analyst Associate (PL-300)
 - **Microsoft Office Specialist:** Excel Expert (MO-211)
 - **Google / Coursera:** Google Prompting Essentials Specialization
+- **SAP:** TERP 10
 - **Akademischer Abschluss:** M.Sc. Rechnungslegung und Unternehmenssteuerung (TU Chemnitz)
 
 ---
