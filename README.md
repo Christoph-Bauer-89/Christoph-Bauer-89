@@ -29,7 +29,7 @@ Code entsteht bei mir KI-gestützt: Ich definiere Anforderungen und Architektur,
 | 🧠 **[AI Knowledge Radar](https://github.com/Christoph-Bauer-89/-AI-Knowledge-Intelligence-Radar-Autonomes-Second-Brain-in-Obsidian-)** | Autonome Ingestion-Pipeline (Web-Scraping & LLM) mit Obsidian zur Wissensverdichtung. | Python, LLM, Telegram API |
 | 📈 **[GEO Inhaltsoptimierung](https://github.com/Christoph-Bauer-89/Automatisierte-GEO-Inhaltsoptimierung-fuer-Legacy-Websites)** | Automatisierte Pipeline zur datenbasierten Modernisierung von Legacy-Inhalten für KI-Suchmaschinen. | Python, Web Analytics, SEO |
 | 📋 **[Smart Contract Manager](https://github.com/Christoph-Bauer-89/Automatisierte-Fixkosten--Fristen-Steuerung-Gemini-AI-Agent-Power-BI-)** | Autonome KI-Belegextraktion mit Fristen-Rollierung & automatisierter Power BI Dashboard-Integration. | Gemini API, Python, Power BI |
-| 🔌 **[MCP Obsidian Vault Manager](https://github.com/Christoph-Bauer-89/MCP-Obsidian-Vault-Manager)** | Moderner MCP-Server zur sicheren Claude-Obsidian-Anbindung inklusive Sandbox & Path-Traversal-Schutz. | Python, FastMCP, PyYAML |
+| 📊 **[Sales Analytics: SQL → Power BI](https://github.com/Christoph-Bauer-89/-End-to-End-Data-Analytics--From-MySQL-to-Minimalist-Power-BI-Dashboards)** | End-to-End-Analyse von Verkaufsdaten: SQL-Profiling, Datenbereinigung, KPI-Modellierung und Dashboard mit Handlungsempfehlungen. | MySQL, Power Query, DAX, Power BI |
 
 *Insgesamt 9 praxisnahe AI-First & Data Engineering Repositories im Profil verfügbar.*
 
