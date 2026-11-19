@@ -5,8 +5,8 @@
 
 ---
 
-### 🚀 Fokus & Philosophie: "AI-First Building"
-Ich nutze modernste KI-Methoden und Large Language Models (LLMs) als Effizienzhebel, um komplexe Daten- und Prozessarchitekturen schnell, sicher und produktionsnah umzusetzen. Von n8n-Workflows über RAG-Architekturen bis hin zu nativen MCP-Servern (Model Context Protocol).
+### 🚀 Arbeitsweise: „AI-First Building“
+Ich setze Large Language Models (LLMs) gezielt als Werkzeug ein, um Daten- und Prozesslösungen schneller umzusetzen: von n8n-Workflows über RAG-Anwendungen bis zu eigenen MCP-Servern (Model Context Protocol).
 
 Code entsteht bei mir KI-gestützt: Ich definiere Anforderungen und Architektur, setze KI-Coding-Assistenten für die Umsetzung ein und prüfe die Ergebnisse.
 
@@ -16,22 +16,23 @@ Code entsteht bei mir KI-gestützt: Ich definiere Anforderungen und Architektur,
 
 - **Data Analytics & BI:** Power BI (PL-300 zertifiziert), Excel (MO-211 Expert), SQL (Queries, Joins, Profiling), DAX, Power Query
 - **AI & Automation:** OpenAI API, Gemini API, Ollama / Llama 3, FastMCP, RAG-Architekturen, n8n, Python (Pandas, Pathlib, PyYAML)
-- **Process & Architecture:** BPMN 2.0 & DMN (Camunda), Data Engineering & Ingestion Pipelines, Web Analytics
+- **Prozesse & Anforderungen:** BPMN 2.0 & DMN (Camunda), Datenpipelines, Web Analytics
 
 ---
 
-### 🌟 Top Portfolio-Projekte (Auswahl)
+### 🌟 Ausgewählte Projekte
 
 | Projekt | Beschreibung | Tech Stack |
 | :--- | :--- | :--- |
-| 🕵️‍♂️ **[WebResearch Agent](https://github.com/Christoph-Bauer-89/Entwicklung-eines-autonomen-reflexiven-Web-Research-Agenten-mit-LangGraph-und-Obsidian-Integration)** | Autonomer Agent zur strukturierten Recherche, Datenextraktion und Synthese aus Webquellen. | Python, LangGraph, LLM |
-| ✉️ **[Enterprise Email Engine](https://github.com/Christoph-Bauer-89/Enterprise-Email-Automation-Engine-Local-LLM-Deterministic-Workflow-Architecture)** | DSGVO-konforme E-Mail-Automatisierungs-Engine für strukturierte Posteingangsverarbeitung. | n8n, Ollama, Llama 3, Gmail |
-| 🧠 **[AI Knowledge Radar](https://github.com/Christoph-Bauer-89/-AI-Knowledge-Intelligence-Radar-Autonomes-Second-Brain-in-Obsidian-)** | Autonome Ingestion-Pipeline (Web-Scraping & LLM) mit Obsidian zur Wissensverdichtung. | Python, LLM, Telegram API |
-| 📈 **[GEO Inhaltsoptimierung](https://github.com/Christoph-Bauer-89/Automatisierte-GEO-Inhaltsoptimierung-fuer-Legacy-Websites)** | Automatisierte Pipeline zur datenbasierten Modernisierung von Legacy-Inhalten für KI-Suchmaschinen. | Python, Web Analytics, SEO |
-| 📋 **[Smart Contract Manager](https://github.com/Christoph-Bauer-89/Automatisierte-Fixkosten--Fristen-Steuerung-Gemini-AI-Agent-Power-BI-)** | Autonome KI-Belegextraktion mit Fristen-Rollierung & automatisierter Power BI Dashboard-Integration. | Gemini API, Python, Power BI |
-| 📊 **[Sales Analytics: SQL → Power BI](https://github.com/Christoph-Bauer-89/-End-to-End-Data-Analytics--From-MySQL-to-Minimalist-Power-BI-Dashboards)** | End-to-End-Analyse von Verkaufsdaten: SQL-Profiling, Datenbereinigung, KPI-Modellierung und Dashboard mit Handlungsempfehlungen. | MySQL, Power Query, DAX, Power BI |
+| 🕵️‍♂️ **[Web-Research-Agent](https://github.com/Christoph-Bauer-89/web-research-agent-langgraph)** | Agent, der im Web recherchiert, die Ergebnisse selbst bewertet, bei Bedarf nachsucht und Reports in Obsidian ablegt. | Python, LangGraph, LLM |
+| 🔌 **[MCP-Server für Obsidian](https://github.com/Christoph-Bauer-89/mcp-obsidian-vault-manager)** | Eigener MCP-Server, über den Claude Notizen im Obsidian-Vault liest und schreibt, mit Pfadprüfung. | Python, MCP (FastMCP) |
+| ✉️ **[E-Mail-Automatisierung](https://github.com/Christoph-Bauer-89/email-automation-n8n-ollama)** | Klassifiziert Kundenanfragen regelbasiert und legt Antwortentwürfe per lokalem LLM in Gmail an. | n8n, Ollama, Llama 3, Gmail |
+| 📊 **[Skills-Radar](https://github.com/Christoph-Bauer-89/skills-radar)** | Pipeline, die Stellenanzeigen per LLM strukturiert und Skill-Schwerpunkte in Power BI auswertet. | Python, OpenAI API, Power BI |
+| 📈 **[Sales Analytics: SQL → Power BI](https://github.com/Christoph-Bauer-89/sales-analytics-mysql-powerbi)** | End-to-End-Analyse von Verkaufsdaten: SQL-Profiling, Datenbereinigung, KPI-Modellierung und Dashboard mit Handlungsempfehlungen. | MySQL, Power Query, DAX, Power BI |
+| 🧠 **[AI Knowledge Radar](https://github.com/Christoph-Bauer-89/ai-knowledge-radar)** | Sammelt KI-Artikel aus RSS und Telegram, fasst sie per LLM zusammen und sortiert sie in Obsidian ein. | Python, LLM, Telegram API |
+| 🌍 **[GEO-Optimierung](https://github.com/Christoph-Bauer-89/geo-content-optimizer)** | Ergänzt ältere Blogartikel mit Potenzial aus der Search Console automatisch um FAQs und strukturierte Daten. | Python, Search Console API, WordPress API |
 
-*Insgesamt 9 praxisnahe AI-First & Data Engineering Repositories im Profil verfügbar.*
+*Weitere Projekte, z. B. ein lokaler RAG-Chatbot, findest du unter „Repositories“.*
 
 ---
 
