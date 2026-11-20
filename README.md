@@ -29,6 +29,7 @@ Code entsteht bei mir KI-gestützt: Ich definiere Anforderungen und Architektur,
 | ✉️ **[E-Mail-Automatisierung](https://github.com/Christoph-Bauer-89/email-automation-n8n-ollama)** | Klassifiziert Kundenanfragen regelbasiert und legt Antwortentwürfe per lokalem LLM in Gmail an. | n8n, Ollama, Llama 3, Gmail |
 | 📊 **[Skills-Radar](https://github.com/Christoph-Bauer-89/skills-radar)** | Pipeline, die Stellenanzeigen per LLM strukturiert und Skill-Schwerpunkte in Power BI auswertet. | Python, OpenAI API, Power BI |
 | 📈 **[Sales Analytics: SQL → Power BI](https://github.com/Christoph-Bauer-89/sales-analytics-mysql-powerbi)** | End-to-End-Analyse von Verkaufsdaten: SQL-Profiling, Datenbereinigung, KPI-Modellierung und Dashboard mit Handlungsempfehlungen. | MySQL, Power Query, DAX, Power BI |
+| 🛡️ **[Fixkosten- & Fristen-Monitor](https://github.com/Christoph-Bauer-89/fixkosten-fristen-monitor)** | Gemini-Gem überführt Vertragsdokumente in ein festes CSV-Schema; Power BI zeigt Fixkosten und Kündigungsfristen mit Ampel (Demo-Daten). | Gemini, Power Query, DAX, Power BI |
 | 🧠 **[AI Knowledge Radar](https://github.com/Christoph-Bauer-89/ai-knowledge-radar)** | Sammelt KI-Artikel aus RSS und Telegram, fasst sie per LLM zusammen und sortiert sie in Obsidian ein. | Python, LLM, Telegram API |
 | 🌍 **[GEO-Optimierung](https://github.com/Christoph-Bauer-89/geo-content-optimizer)** | Ergänzt ältere Blogartikel mit Potenzial aus der Search Console automatisch um FAQs und strukturierte Daten. | Python, Search Console API, WordPress API |
 
